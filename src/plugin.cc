@@ -1,6 +1,6 @@
-#include "CondCore/PluginSystem/interface/registration_macros.h"
+#include "CondCore/ESSources/interface/registration_macros.h"
 
-DEFINE_SEAL_MODULE();
+
 
 // Central L1 records
 #include "CondFormats/DataRecord/interface/L1TriggerKeyRcd.h"
